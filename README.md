@@ -2,7 +2,7 @@
 
 This project create tables and fill the tables in a Postgres database. The tables and data that are created in data/ folder
 
-Read the explanation here [Exercise Requirements](REQ.MD)
+Read the explanation here [Exercise Requirements](https://github.com/svincloud/bpoil_docker_postgres_with_data/blob/main/REQ.md)
 ## Console Diagram
 After running docker-compose:
 
