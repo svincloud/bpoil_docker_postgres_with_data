@@ -3,10 +3,10 @@
 This project create tables and fill the tables in a Postgres data base. The tables and data that create are in sql/ folder
 
 Read the explanation here [Creating and filling a Postgres DB with Docker compose](https://bp.com/interview)
-## ER Diagram
-The ER Diagram of DB is this:
+## Console Diagram
+After running docker-compose:
 
-<img width="809" alt="ER_Diagram" src="">
+<img width="809" alt="ER_Diagram" src="https://github.com/svincloud/bpoil_docker_postgres_with_data/blob/main/images/dockercomposeconsole.JPG">
 
 ## DB Variables
 Set the variables in `sql/fill_tables.sql`
