@@ -41,7 +41,7 @@ The finished solution **should not:**
 
 - Use of Spring boot or vertx
 - Reactive libraries to access database - r2dbc, io.vertx.pgclient
-- Reactive implementation of api
+- Reactive implementation of api - spring reactor, rxjava
 
 ## How to submit your exercise
 
