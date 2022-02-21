@@ -2,7 +2,7 @@
 
 This project create tables and fill the tables in a Postgres database. The tables and data that are created in data/ folder
 
-Read the explanation here [Creating and filling a Postgres DB with Docker compose](https://bp.com/interview)
+Read the explanation here [Exercise Requirements](REQ.MD)
 ## Console Diagram
 After running docker-compose:
 
