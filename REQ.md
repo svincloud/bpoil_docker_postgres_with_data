@@ -1,4 +1,4 @@
-# BP Oil FO Take Home Exercise
+# BP Take Home Exercise
 
 BP take home test is designed to evaluate day-to-day activities that are involved with this role.
 Team builds highly available distributed systems in a microservices environment.  
