@@ -7,7 +7,7 @@ The approach is to test the ability to deliver microservice with full test cover
 ## Instructions
 The goal of this exercise is to write a rest api  to access our postgres db, which is provided as a Docker
 container in the file `docker-compose.yaml` of this repository. Please refer to the
-Readme.md for information on how to interact with the API. Please note that the postgresdb credentials are in `docker-compose.yaml` file.
+Readme.md for information on how to interact with the db. Please note that the postgresdb credentials are in `docker-compose.yaml` file.
 
 
 If you encounter any problems running the docker-compose we would encourage you to do some debugging first,
