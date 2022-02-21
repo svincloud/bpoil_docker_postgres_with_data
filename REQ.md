@@ -24,8 +24,10 @@ The finished solution **should:**
 - Use the `docker-compose.yaml` of this repository.
 - Be a rest api suitable for use in another software project.
 - Implement the `Create`, `Fetch`, and `Delete` operations on the `deals` resource.
+- Get deal to return ticker name, trader name, book name, currency and status name in response
 - Be well tested to the level you would expect in a commercial environment. 
 - Be simple and concise.
+- Integrate the rest api with `docker-compose.yaml `
 - Have tests that run from `docker-compose up` - our reviewers will run `docker-compose up` to assess if your tests pass.
 
 ### Should Nots
