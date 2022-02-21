@@ -1,6 +1,6 @@
-# BP Take Home Exercise
+# Take Home Exercise
 
-BP take home test is designed to evaluate day-to-day activities that are involved with this role.
+Take home test is designed to evaluate day-to-day activities that are involved with this role.
 Team builds highly available distributed systems in a microservices environment.  
 The approach is to test the ability to deliver microservice with full test coverage in a containerized environment. 
 
